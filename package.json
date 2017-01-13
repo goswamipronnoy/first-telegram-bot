@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/goswamipronnoy/first-telegram-bot.git"
   },
-  "author": "Pronnoy Goswami",
+  "author": "Pronnoy Goswami <pronnoy.goswami@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goswamipronnoy/first-telegram-bot/issues"
